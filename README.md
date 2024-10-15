@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I am a visual artist / programmer.
 - 🧑‍💻 I am currently working on an original web-based system for media art and signage.
+- 🧑‍💻 I am a member of IE3. [https://ie3.jp/](https://ie3.jp/)
 - 💻 Here is my website for work, etc. [https://rettuce.com/](https://rettuce.com/)
 - 📫 How to reach me: [Twitter - @rettuce](https://twitter.com/rettuce)
 <br>
